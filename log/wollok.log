@@ -2743,3 +2743,14 @@
 {"level":"info","message":"⌛ Validating personajes.wlk","timeElapsed":185,"timestamp":"2026-04-12T18:16:39.130Z"}
 {"level":"info","message":"⌛ Validating armas.wlk","timeElapsed":248,"timestamp":"2026-04-12T18:16:39.385Z"}
 {"level":"info","message":"⌛ Validating elementos.wlk","timeElapsed":208,"timestamp":"2026-04-12T18:16:39.597Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":1001,"timestamp":"2026-04-15T22:19:55.830Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":770,"timestamp":"2026-04-15T22:19:56.624Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":422,"timestamp":"2026-04-15T22:19:57.088Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":714,"timestamp":"2026-04-15T22:19:57.804Z"}
+{"level":"info","message":"⌛ Validating personajes.wlk","timeElapsed":1089,"timestamp":"2026-04-15T22:19:58.895Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":322,"timestamp":"2026-04-15T22:19:59.219Z"}
+{"level":"info","message":"⌛ Validating elementos.wlk","timeElapsed":724,"timestamp":"2026-04-15T22:19:59.989Z"}
+{"level":"info","message":"⌛ Validating armas.wlk","timeElapsed":1022,"timestamp":"2026-04-15T22:20:01.012Z"}
+{"level":"info","message":"⌛ Validating personajes.wlk","timeElapsed":521,"timestamp":"2026-04-15T22:20:01.536Z"}
+{"level":"info","message":"⌛ Validating elementos.wlk","timeElapsed":695,"timestamp":"2026-04-15T22:20:02.234Z"}
+{"level":"info","message":"⌛ Validating armas.wlk","timeElapsed":405,"timestamp":"2026-04-15T22:20:02.640Z"}
